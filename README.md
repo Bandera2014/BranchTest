@@ -1,3 +1,3 @@
 # BranchTest
 
-Wong - Thin crust, carlic, onion, pepperoni, and jalapeno.
+Wong - Thin crust, garlic, onion, pepperoni, and jalapeno.
