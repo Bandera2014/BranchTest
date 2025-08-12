@@ -1,9 +1,1 @@
 # BranchTest
-## Pizza 
-- olives
-- queso 
-- mushrooms 
-- peperoni 
-- sausage 
-- spagetti 
-- watermelon
