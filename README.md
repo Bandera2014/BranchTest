@@ -8,3 +8,14 @@ Bander - Supreme Pizza with Stuffed Crust and Cheesy Bread and a Coke.
 
 
 Jarred - large ham and mushroom with extra cheese and shrimp with a side of fries.
+
+## Pizza for Ezra 
+- olives
+- queso 
+- mushrooms 
+- peperoni 
+- sausage 
+- spaghetti 
+- watermelon
+- lasagna
+- 
